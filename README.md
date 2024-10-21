@@ -1,0 +1,2 @@
+# lottery
+simple lottery game
